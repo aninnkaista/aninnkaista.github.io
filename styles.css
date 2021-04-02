@@ -1,0 +1,23 @@
+* {
+    font-family: arial;
+}
+
+.source {
+    font-size: small;
+    color: gray;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: auto;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#birthday {
+    font-size: 25px;
+    margin: 15px 0 15px 0;
+}
